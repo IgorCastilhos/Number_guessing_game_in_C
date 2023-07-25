@@ -1,0 +1,3 @@
+C:/Users/igorc/OneDrive/Documentos/C++/projects/number_guessing_game/cmake-build-debug/CMakeFiles/number_guessing_game.dir
+C:/Users/igorc/OneDrive/Documentos/C++/projects/number_guessing_game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/igorc/OneDrive/Documentos/C++/projects/number_guessing_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
